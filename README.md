@@ -1,7 +1,5 @@
 ### Hi there 👋
- # I'm Jony Almeida [![Github](https://img.shields.io/github/followers/jonyalmeida?logo=github&logoColor=black&style=social)](https://github.com/jonyalmeida) [![Portfolio](https://jonyalmeida.herokuapp.com)](https://jonyalmeida.github.io/) [![Mail](https://img.shields.io/badge/-jony.figs@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:jony.figs@gmail.com)
-
-[![Linkedin](https://img.shields.io/badge/-Jony%20Almeida-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jony-almeida-48940a16b/)](https://www.linkedin.com/in/jony-almeida-48940a16b/)
+ # I'm Jony Almeida [![Mail](https://img.shields.io/badge/-jony.figs@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:jony.figs@gmail.com) [![Linkedin](https://img.shields.io/badge/-Jony%20Almeida-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jony-almeida-48940a16b/)](https://www.linkedin.com/in/jony-almeida-48940a16b/)
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
