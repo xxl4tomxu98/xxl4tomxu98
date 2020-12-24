@@ -1,5 +1,5 @@
 ### Hi there 👋
- # I'm Jony Almeida [![Mail](https://img.shields.io/badge/-jony.figs@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:jony.figs@gmail.com) [![Linkedin](https://img.shields.io/badge/-Jony%20Almeida-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jony-almeida-48940a16b/)](https://www.linkedin.com/in/jony-almeida-48940a16b/)
+ # I'm Tom Xu [![Mail](https://img.shields.io/badge/-tomxu@udel.edu-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tomxu@udel.edu) [![Linkedin](https://img.shields.io/badge/-Tom%20Tom-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/tom-xu-dupont/)](https://www.https://www.linkedin.com/in/tom-xu-dupont/)
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
@@ -15,5 +15,6 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://github.com/prplx/svg-logos/blob/master/svg/redux.svg"></code>
