@@ -1,5 +1,5 @@
 ### Hi there 👋
- # I'm Tom Xu [![Mail](https://img.shields.io/badge/-tomxu@udel.edu-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tomxu@udel.edu) [![DEV Community](https://img.shields.io/badge/-Community-white?style=flat-square&logo=(https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)@logoColor=black&link=)](https://dev.to/xxl4tomxu98) [![Linkedin](https://img.shields.io/badge/-Tom%20Xu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tom-xu-dupont/)](https://www.linkedin.com/in/tom-xu-dupont/)
+ # I'm Tom Xu [![Mail](https://img.shields.io/badge/-tomxu@udel.edu-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tomxu@udel.edu) [![DEV Community](https://img.shields.io/badge/-(https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)?style=flat-square&logo=@logoColor=black&link=)](https://dev.to/xxl4tomxu98) [![Linkedin](https://img.shields.io/badge/-Tom%20Xu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tom-xu-dupont/)](https://www.linkedin.com/in/tom-xu-dupont/)
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
