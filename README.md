@@ -1,5 +1,5 @@
 ### Hi there 👋
- # I'm Tom Xu [![Mail](https://img.shields.io/badge/-tomxu@udel.edu-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tomxu@udel.edu) [![Linkedin](https://img.shields.io/badge/-Tom%20Xu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tom-xu-dupont/)](https://www.linkedin.com/in/tom-xu-dupont/) [![My DEV Profile](https://img.shields.io/badge/-DEV-orange?style=flat-square&logo=dev&logoColor=black&link=https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/xxl4tomxu98/)
+ # I'm Tom Xu [![Mail](https://img.shields.io/badge/-tomxu@udel.edu-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:tomxu@udel.edu) [![Linkedin](https://img.shields.io/badge/-Tom%20Xu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tom-xu-dupont/)](https://www.linkedin.com/in/tom-xu-dupont/) [![My DEV Profile](https://img.shields.io/badge/-DEV Community-orange?style=flat-square&logo=dev&logoColor=black&link=https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/xxl4tomxu98/)
 
 ## Stack I work with
 <code><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
